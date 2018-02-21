@@ -1,0 +1,10 @@
+_SumAggregator
+_QueryExecutionEndpointComponent
+_QueryExecutionAggregateEndpointComponent
+numbers
+_MaxAggregator
+_AverageAggregator
+_QueryExecutionOrderByEndpointComponent
+_CountAggregator
+_QueryExecutionTopEndpointComponent
+_MinAggregator
